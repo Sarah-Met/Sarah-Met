@@ -28,27 +28,24 @@
 </p>
 
 ---
-## ✨ My GitHub Activity
+## ✨ My GitHub Vibes
 
 <p align="center">
-  <!-- Compact stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarah-Met&show_icons=true&theme=radical&hide_border=true&bg_color=30,ff79c6,9399b2&title_color=fff&icon_color=fff&text_color=fff&include_all_commits=true" width="400" />
-  
-  <!-- Streak stats -->
-  <img src="https://streak-stats.demolab.com/?user=Sarah-Met&theme=radical&hide_border=true&background=30,ff79c6,9399b2&ring=fff&fire=fff&currStreakNum=fff&sideNums=fff&currStreakLabel=fff" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarah-Met&show_icons=true&theme=ayu-mirage&hide_border=true&title_color=FF79C6&icon_color=FFB6C1&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Sarah-Met&theme=ayu-mirage&hide_border=true&ring=FF79C6&fire=FF79C6&currStreakLabel=FF79C6" width="48%" />
 </p>
 
 <p align="center">
-  <!-- Activity graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarah-Met&theme=react-dark&bg_color=ff79c6&hide_border=true&color=fff&line=fff&point=fff" width="90%" />
+  <a href="https://github.com/Sarah-Met?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarah-Met&layout=compact&theme=ayu-mirage&hide_border=true&title_color=FF79C6" width="40%" />
+  </a>
+  <a href="https://github.com/Sarah-Met">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarah-Met&theme=ayu_mirage" width="55%" />
+  </a>
 </p>
 
 <p align="center">
-  <!-- Compact language stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarah-Met&layout=compact&theme=radical&hide_border=true&bg_color=30,ff79c6,9399b2&title_color=fff&text_color=fff" width="45%" />
-  
-  <!-- Trophy stats -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Sarah-Met&theme=onedark&no-frame=true&margin-w=15&title=Stars,Followers,Repositories,Commits" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sarah-Met&theme=flat&no-frame=true&margin-w=8&title=Stars,Followers,Commits,Repositories" width="100%" />
 </p>
 ---
 
