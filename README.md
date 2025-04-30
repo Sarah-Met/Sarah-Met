@@ -1,59 +1,67 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sarah!;Welcome+to+My+Profile!;Code.+Create.+Level+Up." alt="Typing animation" /></h1>
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  💖 Hey there, I'm <span style="color:#FF79C6">Sarah</span> 💻✨
+</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/7UzSLCR_x5oAAAAM/cats.gif" width="200" />
+  <img src="https://media.tenor.com/7UzSLCR_x5oAAAAM/cats.gif" width="200" alt="Cute cat gif" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=Creative+Developer+%7C+Soft+Tech+Vibes;Lover+of+Design%2C+Code%2C+and+Games;Let's+Build+Cute+and+Cool+Things!" alt="Typing animation" />
 </p>
 
 ---
 
-## 🎮 About Me
+## 🌷 About Me
 
-🕹️ **Developer with a creative edge and a passion for games**  
-🎨 Building interactive, user-friendly projects with code and design  
-🧩 Exploring JavaScript game dev, pixel art interfaces, and AI tools  
-📚 Always learning — one level at a time
+💡 Passionate about combining **creativity** & **technology**  
+🎮 Enjoy crafting interactive web projects  
+🌈 Interested in **game dev**, **pixel art**, and **AI tools**  
+📖 Always exploring and leveling up in code & design  
 
 ---
 
-## 🛠️ Loadout / Tech Stack
+## 🧁 My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,python,cpp,html,css,figma,github,vscode,unity" />
+  <img src="https://skillicons.dev/icons?i=js,react,python,html,css,cpp,figma,vscode,github,unity" />
 </p>
 
 ---
 
-## ⚡ Stats & Achievements
+## ✨ My GitHub Vibes
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarah-Met&show_icons=true&theme=highcontrast&hide_border=true&custom_title=Sarah's%20Code%20Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Sarah-Met&theme=highcontrast&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarah-Met&show_icons=true&theme=ayu-mirage&hide_border=true&title_color=FF79C6&icon_color=FFB6C1" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Sarah-Met&theme=ayu-mirage&hide_border=true&ring=FF79C6&fire=FF79C6&currStreakLabel=FF79C6" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sarah-Met&theme=darkhub&no-bg=true&margin-w=8&title=Stars,Followers,Commits,Repositories" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sarah-Met&theme=flat&no-frame=true&margin-w=8&title=Stars,Followers,Commits,Repositories" />
 </p>
 
 ---
 
-## 💬 Hit Me Up!
+## 💌 Let's Connect
 
 <p align="center">
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-F14C42?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-B48EAD?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Sarah-Met">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGs1c3BoMmFtZm9uYWt2NzJldzh3ZGIxbzdkZ3Z0cTBybTc1dTh2MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11sBLVxNs7v6WA/giphy.gif" width="400" alt="Laptop girl gif" />
 </p>
 
-<p align="
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sarah-Met&label=🌸%20Profile%20Views&color=FFB6C1&style=flat-square" />
+</p>
