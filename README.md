@@ -1,16 +1,13 @@
-<p align="center">
-  <img src="https://i.imgur.com/FeZ8n4a.png" width="100%" alt="Cute banner" />
-  <!-- Replace this link with your own banner if you want something custom! -->
-</p>
-
 <h1 align="center">
   💖 Hi! I'm <span style="color:#FF79C6">Sarah</span> 💻✨
 </h1>
 
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=Creative+Designer+%7C+Welcome+Back!;Lover+of+Design%2C+Code%2C+and+Games;Building+Things+I+Enjoy!" alt="Typing animation" />
+</p>
+
+<p align="center">
+  <img src="Github Banner.gif" alt="Sarah Metwally's Banner" />
 </p>
 
 ---
@@ -24,7 +21,7 @@
 
 ---
 
-## 🧁 My Tech Toolbox
+## � My Tech Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,python,html,css,cpp,figma,vscode,github,unity" />
