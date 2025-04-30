@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sarah-Met&theme=onedark&no-frame=false&margin-w=8&title_color=FF79C6&text_color=FFB6C1&bg_color=1F222E" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sarah-Met&theme=onedark&no-frame=false&margin-w=8&title_color=FF79C6&text_color=FF79C6&bg_color=1F222E" width="100%" />
 </p>
 ---
 
