@@ -24,7 +24,7 @@
 ## � My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,python,html,css,cpp,figma,vscode,github,unity" />
+  <img src="https://skillicons.dev/icons?i=js,react,python,html,css,cpp,figma,github" />
 </p>
 
 ---
