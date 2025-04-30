@@ -1,57 +1,62 @@
-<h1 align="center">✨ Hello, I'm Sarah! ✨</h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sarah-Met!;Welcome+to+My+Gaming+Dev+Zone!;Code.+Create.+Level+Up." alt="Typing animation" /></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FA5C95&center=true&vCenter=true&width=440&lines=Creative+Developer+%7C+Tech+Explorer;Lover+of+Aesthetic+Designs;Making+Ideas+Come+to+Life+with+Code" alt="Typing animation" />
+  <img src="https://media.giphy.com/media/dsKnRuALlWsZG/giphy.gif" width="200" />
 </p>
 
 ---
 
-## 🌸 About Me
+## 🎮 About Me
 
-🌼 A curious mind with a passion for building creative digital things  
-🧠 I enjoy blending **code, design, and storytelling**  
-📍 Based somewhere between imagination and GitHub  
-🎯 Currently exploring **AI, frontend design, and weird internet projects**
+🕹️ **Creative Dev + Casual Gamer**  
+💡 I love crafting interactive experiences, whether it’s through code or stories  
+🧩 Currently into: **JavaScript games**, pixel art UI, and AI-powered tools  
+📚 Forever learning new things – just like leveling up in a game!
 
 ---
 
-## 🧰 My Toolkit
+## 🛠️ Loadout / Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,figma,react,github,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,react,python,cpp,html,css,figma,github,vscode,unity" />
 </p>
 
 ---
 
-## 📈 My GitHub Snapshot
+## ⚡ Stats & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarah-Met&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&custom_title=Sarah's%20GitHub%20Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Sarah-Met&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarah-Met&show_icons=true&theme=highcontrast&hide_border=true&custom_title=Sarah's%20Code%20Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Sarah-Met&theme=highcontrast&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sarah-Met&theme=darkhub&no-bg=true&margin-w=8&title=Stars,Followers,Commits,Repositories" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 💬 Hit Me Up!
 
 <p align="center">
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-F14C42?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Sarah-Met">
-    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="500" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sarah-Met&style=flat-square&color=lightgrey" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Sarah-Met&label=👾%20Profile%20Views&color=861EE3&style=flat-square" />
 </p>
+
