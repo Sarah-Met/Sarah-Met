@@ -7,9 +7,7 @@
   💖 Hi! I'm <span style="color:#FF79C6">Sarah</span> 💻✨
 </h1>
 
-<p align="center">
-  <img src="https://media.tenor.com/7UzSLCR_x5oAAAAM/cats.gif" width="200" alt="Cute cat gif" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=Creative+Designer+%7C+Welcome+Back!;Lover+of+Design%2C+Code%2C+and+Games;Building+Things+I+Enjoy!" alt="Typing animation" />
@@ -64,7 +62,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGs1c3BoMmFtZm9uYWt2NzJldzh3ZGIxbzdkZ3Z0cTBybTc1dTh2MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11sBLVxNs7v6WA/giphy.gif" width="400" alt="Laptop girl gif" />
+  <img src="https://media.tenor.com/7UzSLCR_x5oAAAAM/cats.gif" width="400" alt="Laptop girl gif" />
 </p>
 
 <p align="center">
