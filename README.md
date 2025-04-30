@@ -21,10 +21,10 @@
 
 ---
 
-## � My Tech Toolbox
+## 🧁 My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,python,html,css,cpp,figma,github" />
+  <img src="https://skillicons.dev/icons?i=js,react,python,html,css,cpp,figma,vscode,github,unity" />
 </p>
 
 ---
@@ -32,12 +32,12 @@
 ## ✨ My GitHub Vibes
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarah-Met&show_icons=true&theme=ayu-mirage&hide_border=true&title_color=FF79C6&icon_color=FFB6C1" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarah-Met&show_icons=true&theme=ayu-mirage&hide_border=true&title_color=FF79C6&icon_color=FFB6C1&include_all_commits=true" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=Sarah-Met&theme=ayu-mirage&hide_border=true&ring=FF79C6&fire=FF79C6&currStreakLabel=FF79C6" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sarah-Met&theme=flat&no-frame=true&margin-w=8&title=Stars,Followers,Commits,Repositories" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sarah-Met&theme=flat&no-frame=true&margin-w=8&title=Stars,Followers,Commits,Repositories" width="100%" />
 </p>
 
 ---
@@ -59,7 +59,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/7UzSLCR_x5oAAAAM/cats.gif" width="400" alt="Laptop girl gif" />
+  <img src="https://media.tenor.com/7UzSLCR_x5oAAAAM/cats.gif" width="250" alt="Cute cat gif" />
 </p>
 
 <p align="center">
