@@ -28,12 +28,20 @@
 </p>
 
 ---
-
 ## ✨ My GitHub Vibes
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarah-Met&show_icons=true&theme=ayu-mirage&hide_border=true&title_color=FF79C6&icon_color=FFB6C1&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarah-Met&show_icons=true&theme=ayu-mirage&hide_border=true&title_color=FF79C6&icon_color=FFB6C1&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=Sarah-Met&theme=ayu-mirage&hide_border=true&ring=FF79C6&fire=FF79C6&currStreakLabel=FF79C6" width="48%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sarah-Met?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarah-Met&layout=compact&theme=ayu-mirage&hide_border=true&title_color=FF79C6" width="40%" />
+  </a>
+  <a href="https://github.com/Sarah-Met">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarah-Met&theme=ayu_mirage" width="55%" />
+  </a>
 </p>
 
 <p align="center">
