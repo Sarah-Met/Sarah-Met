@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  💖 Hey there, I'm <span style="color:#FF79C6">Sarah</span> 💻✨
+  💖 Hi! I'm <span style="color:#FF79C6">Sarah</span> 💻✨
 </h1>
 
 <p align="center">
