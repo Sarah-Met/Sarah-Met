@@ -52,10 +52,10 @@
 ## 💌 Let's Connect
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:sarah.met09@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="https://www.linkedin.com/in/sarah-metwally">
     <img src="https://img.shields.io/badge/LinkedIn-B48EAD?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Sarah-Met">
