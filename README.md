@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=Creative+Developer+%7C+Soft+Tech+Vibes;Lover+of+Design%2C+Code%2C+and+Games;Let's+Build+Cute+and+Cool+Things!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=Creative+Developer+%7C+Welcom+To+My+Profile!;Lover+of+Design%2C+Code%2C+and+Games;Building+Things+I+Enjoy!" alt="Typing animation" />
 </p>
 
 ---
