@@ -1,16 +1,16 @@
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sarah!;Welcome+to+My+Profile!;Code.+Create.+Level+Up." alt="Typing animation" /></h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/dsKnRuALlWsZG/giphy.gif](https://media.tenor.com/7UzSLCR_x5oAAAAM/cats.gif](https://tenor.com/view/cats-gif-26460331" width="200" />
+  <img src="https://media.tenor.com/7UzSLCR_x5oAAAAM/cats.gif" width="200" />
 </p>
 
 ---
 
 ## 🎮 About Me
 
-🕹️ **Developer with a creative edge and a passion for games**
-🎨 Building interactive, user-friendly projects with code and design
-🧩 Exploring JavaScript game dev, pixel art interfaces, and AI tools
+🕹️ **Developer with a creative edge and a passion for games**  
+🎨 Building interactive, user-friendly projects with code and design  
+🧩 Exploring JavaScript game dev, pixel art interfaces, and AI tools  
 📚 Always learning — one level at a time
 
 ---
@@ -56,7 +56,4 @@
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="500" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sarah-Met&label=👾%20Profile%20Views&color=861EE3&style=flat-square" />
-</p>
-
+<p align="
