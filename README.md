@@ -68,9 +68,7 @@
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="Coder GIF" width="200">
 </div>
 
-<p align="center">
-  <img src="https://media.tenor.com/7UzSLCR_x5oAAAAM/cats.gif" width="250" alt="Cute cat gif" />
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sarah-Met&label=🌸%20Profile%20Views&color=FFB6C1&style=flat-square" />
