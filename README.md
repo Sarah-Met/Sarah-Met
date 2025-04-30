@@ -1,4 +1,9 @@
-<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<p align="center">
+  <img src="https://i.imgur.com/FeZ8n4a.png" width="100%" alt="Cute banner" />
+  <!-- Replace this link with your own banner if you want something custom! -->
+</p>
+
+<h1 align="center">
   💖 Hi! I'm <span style="color:#FF79C6">Sarah</span> 💻✨
 </h1>
 
@@ -14,10 +19,10 @@
 
 ## 🌷 About Me
 
-💡 Passionate about combining **creativity** & **technology**  
-🎮 Enjoy crafting interactive web projects  
-🌈 Interested in **game dev**, **pixel art**, and **AI tools**  
-📖 Always exploring and leveling up in code & design  
+> 💡 Passionate about combining **creativity** & **technology**  
+> 🎮 Enjoy crafting interactive web projects  
+> 🌈 Interested in **game dev**, **pixel art**, and **AI tools**  
+> 📖 Always exploring and leveling up in code & design  
 
 ---
 
