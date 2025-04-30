@@ -8,10 +8,10 @@
 
 ## 🎮 About Me
 
-🕹️ **Creative Dev + Casual Gamer**  
-💡 I love crafting interactive experiences, whether it’s through code or stories  
-🧩 Currently into: **JavaScript games**, pixel art UI, and AI-powered tools  
-📚 Forever learning new things – just like leveling up in a game!
+🕹️ **Developer with a creative edge and a passion for games**
+🎨 Building interactive, user-friendly projects with code and design
+🧩 Exploring JavaScript game dev, pixel art interfaces, and AI tools
+📚 Always learning — one level at a time
 
 ---
 
